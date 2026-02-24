@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: Vasukannan R
-# REGISTER NUMBER: 212224080060
+# NAME: Hari Karthik S
+# REGISTER NUMBER: 212224080017
 # AIM
 To solve Implementation of Classical Planning Algorithm using python
 # Algorithm 
