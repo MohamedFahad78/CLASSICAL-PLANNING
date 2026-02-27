@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: Hari Karthik S
-# REGISTER NUMBER: 212224080017
+# NAME: Mohamed Fahad S
+# REGISTER NUMBER: 212224080037
 # AIM
 To solve Implementation of Classical Planning Algorithm using python
 # Algorithm 
